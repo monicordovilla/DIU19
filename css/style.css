@@ -365,6 +365,25 @@ input:not([type]):focus:not([readonly]), input[type="text"]:not(.browser-default
     display:block;
 }
 
+#busquedaOpciones{
+    text-align:center;
+    line-height:24px;
+    font-size:18px;
+    padding-top:21px;
+    padding-right:0px;
+    padding-bottom:0px;
+    padding-left:0px;
+    right:0px;
+    left:0px;
+    margin-top:0px;
+    margin-right:38px;
+    margin-bottom:0px;
+    margin-left:0px;
+    top:-1px;
+    float:none;
+    display:block;
+}
+
 .page-footer.gram-footer{
     background-color:rgb(0, 0, 0);
 }
